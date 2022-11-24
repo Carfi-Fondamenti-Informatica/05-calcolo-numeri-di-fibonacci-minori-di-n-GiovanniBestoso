@@ -15,7 +15,7 @@ int main() {
     }else if (n==2){
         cout<<primo<<endl<<secondo<<endl;
     }else if(n==1){
-        cout<<primo<<endl;
+        cout<<primo<<endl;}
     return 0;
 }
 
