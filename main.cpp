@@ -16,7 +16,6 @@ int main() {
          cout << primo << endl << secondo << endl;
      } else if (n == 1) {
          cout << primo << endl;
-         return 0;
-     }
+     }return 0;
 }
 
